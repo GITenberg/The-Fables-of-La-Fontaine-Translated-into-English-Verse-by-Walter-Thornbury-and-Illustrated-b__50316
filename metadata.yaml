@@ -1,0 +1,50 @@
+_repo: The-Fables-of-La-Fontaine-Translated-into-English-Verse-by-Walter-Thornbury-and-Illustrated-b__50316
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Doré, Louis Christophe Paul Gustave
+    - Dore, Gustave
+    - Doré, Louis Auguste Gustave
+    - Dorè, Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translator:
+    agent_name: Thornbury, Walter
+    aliases:
+    - Thornbury, George Walter
+    - Thornbury, George W. (George Walter)
+    - Thornbury, G. W. (George Walter)
+    birthdate: 1828
+    deathdate: 1876
+    gutenberg_agent_id: '35209'
+    url: http://www.gutenberg.org/2009/agents/35209
+creator:
+  author:
+    agent_name: La Fontaine, Jean de
+    aliases:
+    - Fontaine, Jean de La
+    - De La Fontaine, Jean
+    birthdate: 1621
+    deathdate: 1695
+    gutenberg_agent_id: '1758'
+    url: http://www.gutenberg.org/2009/agents/1758
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
+description: ''
+gutenberg_issued: '2015-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Fables of La Fontaine
+
+  Translated into English Verse by Walter Thornbury and
+
+  Illustrated by Gustave Doré'
+url: http://www.gutenberg.org/ebooks/50316
